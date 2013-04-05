@@ -1,3 +1,7 @@
 text changed again
 
+<<<<<<< HEAD
 and i change it in my laptop
+=======
+now i change it 
+>>>>>>> 5910c109a31fa5e9e1de911088828879c5eca05b
